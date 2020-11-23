@@ -1,7 +1,7 @@
 Bug report repo for Sapper
 ===
 
-This is a repo for [issue]
+This is a repo for https://github.com/sveltejs/sapper/issues/1643
 
 This repo is taken directly from "sveltejs/sapper-template#rollup", the only file modifications are those under routes/. Other files have been deleted to help read the project easily, but have no impacts on the bug.
 
